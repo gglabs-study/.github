@@ -2,25 +2,19 @@
   <img src="https://raw.githubusercontent.com/gglabs-study/gglabs-site/main/banner.png" alt="Golden Gate Learning Labs Banner" width="100%" />
 </p>
 
-<h1 align="center">Golden Gate Learning Labs (GG Labs)</h1>
-
 <p align="center">
-  <strong>Learn • Build • Prepare • Return • Grow</strong><br />
-  <em>Open-Source R&D, Collaborative Engineering & Verifiable Proof-of-Work Hub</em>
-</p>
-
-<p align="center">
+  <em>Open-Source R&D, Collaborative Engineering & Verifiable Proof-of-Work Hub</em><br />
   <a href="https://gglabs.study"><strong>Website (gglabs.study)</strong></a> •
-  <a href="https://github.com/gglabs-study"><strong>GitHub Organization</strong></a> •
+  <a href="https://github.com/gglabs-study?tab=repositories"><strong>Repositories</strong></a> •
   <a href="https://orcid.org/0009-0004-9183-8817"><strong>Founder ORCID</strong></a> •
   <a href="mailto:hello@gglabs.study"><strong>Contact Us</strong></a>
 </p>
 
 ---
 
-### About Golden Gate Learning Labs
+### About & Five Pillars
 
-**Golden Gate Learning Labs (GG Labs)** is an open-source research, engineering, and collaborative learning hub welcoming **undergraduate students**, **independent researchers**, and **industry professionals** across **AI**, **Machine Learning**, **Neuro-Space**, and **Software Engineering** to publish case studies, share datasets, and build verifiable work together.
+An open-source research, engineering, and collaborative learning hub welcoming **undergraduate students**, **independent researchers**, and **industry professionals** across **AI**, **Machine Learning**, **Neuro-Space**, and **Software Engineering** to publish case studies, share datasets, and build verifiable work together.
 
 * **Learn:** Master core algorithms, neural architectures, and modern systems engineering through open lab notes.
 * **Build:** Turn theory into deployed full-stack applications, native iOS tools, and reproducible ML pipelines.
